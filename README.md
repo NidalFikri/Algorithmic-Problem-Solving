@@ -1,2 +1,2 @@
 # Algorithmic-Problem-Solving
-Source codes for Graph theory , Dynamic Programming & etc...
+Here I share my source codes for most solved problems by me.
