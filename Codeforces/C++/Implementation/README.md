@@ -1,1 +1,1 @@
-# General topics like brute-forcing ...etc
+# General topics like brute-forcing, Binary Search...etc
